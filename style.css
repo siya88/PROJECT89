@@ -9,7 +9,7 @@ h3{
     font-size:60px;
     color: white;
 }
-h4{
+h4,h2{
     font-family: 'Hubballi', cursive;
     font-family: 'Water Brush', cursive;
     font-size:30px;
@@ -33,4 +33,12 @@ button{
     font-size:30px;
     color: white;
     background-color:cornflowerblue;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top:10px solid turquoise;
+    padding: 10px;
+    float: none;
+    text-align: left;
 }
