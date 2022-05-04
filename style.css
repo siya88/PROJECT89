@@ -1,0 +1,36 @@
+body{
+    background-image:url("background.jpg");
+    
+    background-size:cover;
+}
+h3{
+    font-family: 'Hubballi', cursive;
+    font-family: 'Water Brush', cursive;
+    font-size:60px;
+    color: white;
+}
+h4{
+    font-family: 'Hubballi', cursive;
+    font-family: 'Water Brush', cursive;
+    font-size:30px;
+    color: white;
+}
+input{
+    
+        font-family: 'Hubballi', cursive;
+        font-family: 'Water Brush', cursive;
+        font-size:20px;
+        color: black;
+   
+}
+img{
+    height:100px;
+    border-radius:200px;
+}
+button{
+    font-family: 'Hubballi', cursive;
+    font-family: 'Water Brush', cursive;
+    font-size:30px;
+    color: white;
+    background-color:cornflowerblue;
+}
